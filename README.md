@@ -1,5 +1,5 @@
 # Machine_Learning 
-This repository contains several projects on Machine Learning, primarily using PyTorch. The projects range from basic implementations to advanced applications, including:
+This repository contains several projects on Machine Learning and Deep Learning, primarily using PyTorch. The projects range from basic implementations to advanced applications, including:
 
 Basic Models: Linear regression, classification, and other foundational algorithms.
 Computer Vision: Customizing pretrained models such as EfficientNet_B0 for image classification tasks using Transfer Learning.
